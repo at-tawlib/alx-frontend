@@ -33,7 +33,7 @@ How to use HTML tags to structure a web page
 **3. Simple header, main, footer** :-  [ [3-index.html](3-index.html)]
 -   Create the header, main, and footer
 
-**4. Aside** :-  [ [4-index.html](4-index.html)]
+**4. Aside** :-  [ [article.html](article.html)]
 -   Create the aside
 
 **5. Section** :-  [ [5-index.html](5-index.html)]
@@ -57,13 +57,13 @@ How to use HTML tags to structure a web page
 **10. Level 3 headings** :-  [ [10-index.html](10-inex.html)]
 -   Create level 3 headings
 
-**11. styleguide** :- [11-index.html](11-index.html)
+**11. styleguide** :- [11-styleguide.html](11-styleguide.html)
 -   Create a new section inside the main
 
 **12. Paragraphs** :- [12-index.html](12-index.html)
 -   Add paragraphs
 
-**13. styleguide paragraphs** :- [13-index.html](13-index.html)
+**13. styleguide paragraphs** :- [13-styleguide.html](11-styleguide.html)
 -   Create a new section in main
 
 **14. Span**  :- [14-index.html](14-index.html)
@@ -81,7 +81,7 @@ How to use HTML tags to structure a web page
 **18. link your logo** :- [18-index.html](18-index.html)
 -   Wrap the span with a link
 
-**19. Create new pages** :- [19-index.html](19-index.html)
+**19. Create new pages** :- [about.html](about.html) , [latest_news.html](latest_news.html) , [contact.html](contact.html)
 -   Change the title of the different pages
 
 **20. Add links** :- [20-index.html](20-index.html)
@@ -102,31 +102,31 @@ How to use HTML tags to structure a web page
 **25. Secondary navigation menu** :- [25-index.html](25-index.html)
 -   Create a new secondary navigation menu
 
-**26. Examples of lists for the styleguide** :- [26-index.html](26-index.html)
+**26. Examples of lists for the styleguide** :- [26-styleguide.html](26-styleguide.html)
 -   Examples of unnordered and ordered lists
 
 **27. Separate content** :- [27-index.html](27-index.html)
 -   Add a horizontal line separating the content
 
-**28. Horizontal rule example** :- [28-index.html](28-index.html)
+**28. Horizontal rule example** :- [28-styleguide.html](28-styleguide.html)
 -   Add a horizontal line example
 
 **29. Client quotes** :- [29-index.html](29-index.html)
 -   Add quotes
 
-**30. Examples of quotes** :- [30-index.html](30-index.html)
+**30. Examples of quotes** :- [30-styleguide.html](30-styleguide.html)
 -   Create example of using Blockquotes
 
 **31. Address and latest news authors** :- [31-index.html](31-index.html)
 -   Add address and latest news authors
 
-**32. Typography section - using the correct tags**: [32-index.html](32-index.html)
+**32. Typography section - using the correct tags**: [32-styleguide.html](32-styleguide.html)
 -   Create a new section
 
-**33. Table** :- [33-index.html](33-index.html)
+**33. Table** :- [33-styleguide.html](33-styleguide.html)
 -   Create a new table
 
-**34. Details** :- [34-index.html](34-index.html)
+**34. Details** :- [34-styleguide.html](34-styleguide.html)
 -   Create a new section
 
 **35. Replace text logo with image logo** :- [35-index.html](35-index.html)
@@ -135,16 +135,16 @@ How to use HTML tags to structure a web page
 **36. Add images to your sections** :- [36-index.html](36-index.html)
 -   Add images to sections
 
-**37. Social icons** :- [37-index.html](37-index.html)
+**37. Social icons** :- [index.html](index.html)
 -   Add social icons
 
-**38. Add a video player in the styleguide** :- [38-index.html](38-index.html)
+**38. Add a video player in the styleguide** :- [38-styleguide.html](38-styleguide.html)
 -   Add a video player
 
-**39. Add an audio player in the styleguide** :- [39-index.html](39-index.html)
+**39. Add an audio player in the styleguide** :- [39-styleguide.html](39-styleguide.html)
 -   Add an audio player
 
-**40. Add a iframe example in the styleguide** :- [40-index.html](40-index.html)
+**40. Add a iframe example in the styleguide** :- [styleguide.html](styleguide.html)
 -   Add an iframe example
 
 > Written with [StackEdit](https://stackedit.io/).
